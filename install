@@ -2,4 +2,4 @@
 echo "Installing.."
 
 # shell settings
-ln -sv /Users/contingencia/.dotfiles/zsh/.zshrc ~/.zshrc
+ln -sv /Users/gcampoy/.dotfiles/zsh/.zshrc ~/.zshrc
